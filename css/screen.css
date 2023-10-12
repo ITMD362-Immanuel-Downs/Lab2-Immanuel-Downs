@@ -47,8 +47,8 @@ textarea {
   background-color: #0056b3;
 }
 
-/* iPhone styles */
-@media (min-width: 414px) {
+/* desktop styles */
+@media (min-width: 768px) {
   .custom-form {
     margin: 0 auto;
     width: 50%;
